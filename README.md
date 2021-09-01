@@ -6,6 +6,7 @@
 - 📫 How to reach me: telagraphic@gmail.com
 - ⚡ Really proud of [Flexulator](https://github.com/telagraphic/flexulator)
 
+```javascript
 const Nick = {
     code: ["Javascript", "Adobe ExtendScript"],
     technologies: {
@@ -20,4 +21,4 @@ const Nick = {
         misc: ["Git", "Github", "Bash/Command Line"]
     }
 };
-
+```
