@@ -12,7 +12,7 @@ const Nick = {
     technologies: {
        design: ["Photoshop", "Illustrator", "Indesign"]
        frontend: ["Grid", "Flexbox", "Responsive Design", "PostCSS", "PostHTML", "UI/UX", "GSAP"],
-       platforms: ["Wordpress", "WooCommerce"]
+       platforms: ["Wordpress", "WooCommerce"],
        backEnd: {
             js: ["Node", "Express"],
             cloud: ["Heroku", "Digital Ocean", "Netlify"]
