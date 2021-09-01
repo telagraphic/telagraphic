@@ -10,7 +10,7 @@
 const Nick = {
     code: ["Javascript", "Adobe ExtendScript"],
     technologies: {
-       design: ["Photoshop", "Illustrator", "Indesign"]
+       design: ["Photoshop", "Illustrator", "Indesign"],
        frontend: ["Grid", "Flexbox", "Responsive Design", "PostCSS", "PostHTML", "UI/UX", "GSAP"],
        platforms: ["Wordpress", "WooCommerce"],
        backEnd: {
