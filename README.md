@@ -1,7 +1,6 @@
 ### Nick Lyons 👋
 
-- 🔭 Currently focusing on building side projects and finding a front end designer/developer job
-- 🌱 I’m currently learning CSS Container Queries, GSAP, Barba.js and ES6
+- 🌱 I’m currently learning React, GSAP, Barba.js, ES6 and UX/UI as I create side-projects ranging from internal tools to fun ideas
 - 💬 Ask me about printing, anything from traditional to digital to large format methods!
 - 📫 How to reach me: telagraphic@gmail.com
 - ⚡ Really proud of [Flexulator](https://github.com/telagraphic/flexulator)
